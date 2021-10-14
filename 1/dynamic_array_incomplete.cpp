@@ -1,7 +1,7 @@
 #include <iostream>
 #include<conio.h>
 using namespace std;
-template <class T>
+template <typename T>
 class dynamic_array
 {
 private:
